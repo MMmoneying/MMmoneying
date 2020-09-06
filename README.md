@@ -1,5 +1,6 @@
 ### Hi there 👋
-大家好我叫钱鹏威，今年十八，来自福建省宁德市的福安，是一个easy-going的boy，英语差的离谱，喜欢玩游戏、旅游，唱唱歌（虽然唱的有点可惜），性格开朗乐观。
+大家好我叫钱鹏威，今年十八，来自福建省宁德市的福安。
+是一个easy-going的boy，英语差的离谱，喜欢玩游戏、旅游，唱唱歌（虽然唱的有点可惜），性格开朗乐观。
 <!--
 **MMmoneying/MMmoneying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
